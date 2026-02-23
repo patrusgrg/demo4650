@@ -6,6 +6,8 @@
 
 intial of the Dl Mth 4650
 
+Author: Patrus Gurung
+
 ## Project Organization
 
 ```
@@ -49,13 +51,12 @@ intial of the Dl Mth 4650
     │
     ├── features.py             <- Code to create features for modeling
     │
-    ├── modeling                
+    ├── modeling              
     │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
+    │   ├── predict.py          <- Code to run model inference with trained models        
     │   └── train.py            <- Code to train models
     │
     └── plots.py                <- Code to create visualizations
 ```
 
---------
-
+---
